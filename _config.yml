@@ -1,13 +1,12 @@
 # Site settings
 name: Derek Purdy
-description: Clouds.
+description: Clouds
 url: "http://www.derekpurdy.com"
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  derekpurdy
-facebook_username: your_facebook_username_goes_here
 twitter_username: derekpurdy
 google_plus_username: DerekPurdy
 linkedin_username: derekpurdy
