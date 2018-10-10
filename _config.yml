@@ -28,3 +28,10 @@ markdown: kramdown
 permalink: pretty
 
 theme: jekyll-theme-midnight
+<<<<<<< HEAD
+=======
+
+plugins:
+  - jemoji
+  - jekyll-mentions
+>>>>>>> cdfd90025ab5d8c951b3afce0ff232715cc87e76
